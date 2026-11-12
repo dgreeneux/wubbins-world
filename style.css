@@ -2,7 +2,8 @@
 html {
   background-color: pink;
   font-family: "Roboto", Arial, Helvetica, sans-serif sans-serif;
-  margin: 20px 40px;
+  margin: 20px auto;
+  padding: 20px 40px;
 }
 h1 {
     font-size: larger;
@@ -12,6 +13,6 @@ body {
     border-width: 2px;
     border-style: dashed;
     border-color: blue;
-    color: aquamarine;
+    color: rgb(184, 0, 168);
     padding: 40px 20px 40px 20px;
 }
